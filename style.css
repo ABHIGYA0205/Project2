@@ -35,7 +35,7 @@ header{
 nav ul li {
     display: inline-block;
     list-style: none;
-    margin: 0 30px;
+    margin: 0 10px;
     position: relative;
 }
 
@@ -453,11 +453,11 @@ textarea {
     }
 
     .left img{
-        height: 15px;
-        width: 45px;
+        height: 40px;
+        width: 120px;
     }
     .right a{
-        font-size: 8px;
+        font-size: 20px;
        
     }
     #content .text {
@@ -523,12 +523,12 @@ textarea {
         position: relative;
     }
     .left img {
-        height: 20px;
-        width: 60px;
+        height: 40px;
+        width: 120px;
     }
 
     .right a {
-        font-size: 10px;
+        font-size: 20px;
     }
 
     /* Adjust text in the content */
